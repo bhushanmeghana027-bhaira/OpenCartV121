@@ -1,0 +1,51 @@
+07:03:31.810 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@14bf57b2: 0 ms
+06:38:32.943 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\seleniumworkspace\seleniumwebdriver\OpenCartV121\master.xml"
+06:38:33.395 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\seleniumworkspace\seleniumwebdriver\OpenCartV121\master.xml
+
+06:38:51.550 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\seleniumworkspace\seleniumwebdriver\OpenCartV121\master.xml"
+06:38:51.999 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\seleniumworkspace\seleniumwebdriver\OpenCartV121\master.xml
+
+06:39:18.413 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\seleniumworkspace\seleniumwebdriver\OpenCartV121\master.xml"
+06:39:18.705 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\seleniumworkspace\seleniumwebdriver\OpenCartV121\master.xml
+
+06:41:23.971 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\seleniumworkspace\seleniumwebdriver\OpenCartV121\master.xml"
+06:42:30.360 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\seleniumworkspace\seleniumwebdriver\OpenCartV121\master.xml"
+06:42:30.710 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\seleniumworkspace\seleniumwebdriver\OpenCartV121\master.xml
+
+06:42:37.433 [main] INFO  testCases.TC001_AccountRegisterationTest - ***Starting TC001_AccountRegisteration***
+06:42:37.625 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on my account 
+06:42:38.573 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on my register link 
+06:42:38.576 [main] INFO  testCases.TC001_AccountRegisterationTest - Provideng customer details
+06:42:44.328 [main] INFO  testCases.TC001_AccountRegisterationTest - validating expected message
+06:42:44.428 [main] INFO  testCases.TC001_AccountRegisterationTest - tc0001 finished
+06:48:02.832 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\seleniumworkspace\seleniumwebdriver\OpenCartV121\crossbrowsertestingparalleltesting.xml"
+06:49:51.548 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\seleniumworkspace\seleniumwebdriver\OpenCartV121\crossbrowsertestingparalleltesting.xml"
+06:49:51.985 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\seleniumworkspace\seleniumwebdriver\OpenCartV121\crossbrowsertestingparalleltesting.xml
+
+06:49:55.855 [main] INFO  testCases.TC001_AccountRegisterationTest - ***Starting TC001_AccountRegisteration***
+06:49:56.062 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on my account 
+06:49:56.465 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on my register link 
+06:49:56.468 [main] INFO  testCases.TC001_AccountRegisterationTest - Provideng customer details
+06:49:59.896 [main] INFO  testCases.TC001_AccountRegisterationTest - validating expected message
+06:49:59.961 [main] INFO  testCases.TC001_AccountRegisterationTest - tc0001 finished
+06:50:08.451 [main] INFO  testCases.TC001_AccountRegisterationTest - ***Starting TC001_AccountRegisteration***
+06:50:11.400 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on my account 
+06:50:12.298 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on my register link 
+06:50:12.298 [main] INFO  testCases.TC001_AccountRegisterationTest - Provideng customer details
+06:50:18.212 [main] INFO  testCases.TC001_AccountRegisterationTest - validating expected message
+06:50:18.384 [main] INFO  testCases.TC001_AccountRegisterationTest - tc0001 finished
+06:52:50.569 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\seleniumworkspace\seleniumwebdriver\OpenCartV121\crossbrowsertestingparalleltesting.xml"
+06:52:51.049 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\seleniumworkspace\seleniumwebdriver\OpenCartV121\crossbrowsertestingparalleltesting.xml
+
+06:53:15.009 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationTest - ***Starting TC001_AccountRegisteration***
+06:53:17.974 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationTest - Clicked on my account 
+06:53:22.557 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationTest - Clicked on my register link 
+06:53:22.663 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationTest - Provideng customer details
+06:53:36.107 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationTest - validating expected message
+06:53:36.414 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationTest - tc0001 finished
