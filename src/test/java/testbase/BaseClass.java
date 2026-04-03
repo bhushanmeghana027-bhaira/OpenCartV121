@@ -26,7 +26,7 @@ public class BaseClass {
 	public void setup(String os, String br) throws IOException {
 		
 //		loading the config.properties file
-		FileReader file = new FileReader("./src//test//resourcses//config.properties");
+		FileReader file = new FileReader("./src//main//resources//config.properties");
 		p=new Properties();
 		p.load(file);
 		

@@ -6,7 +6,9 @@
   	<parameter name ="os" value="Windows"/>
   	<parameter name ="browser" value="Edge"/>
     <classes>
-      <class name="testCases.TC001_AccountRegisterationTest"/>
+     <!--   <class name="testCases.TC001_AccountRegisterationTest"/>-->
+      <!--  <class name="testCases.TC002_LoginTests"/>  -->
+      <class name="testCases.TC003_LoginDDT"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
