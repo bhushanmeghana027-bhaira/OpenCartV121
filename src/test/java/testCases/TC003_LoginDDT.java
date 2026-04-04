@@ -10,7 +10,7 @@ import testbase.BaseClass;
 import utilities.DataProviders;
 
 public class TC003_LoginDDT extends BaseClass {
-	@Test(dataProvider="LoginData",dataProviderClass=DataProviders.class)
+	@Test(groups="datadriven",dataProvider="LoginData",dataProviderClass=DataProviders.class)
 	public void verify_loginDDT(String email,String pwd , String exp)  {
 		logger.info("****TC003LoginDDt is started");
 		try {
